@@ -1,0 +1,5 @@
+[
+  { "name": "Greenfield", "walkability": 8, "safety": 7, "affordability": 6 },
+  { "name": "Downtown", "walkability": 9, "safety": 6, "affordability": 4 },
+  { "name": "Lakeside", "walkability": 6, "safety": 9, "affordability": 7 }
+]
